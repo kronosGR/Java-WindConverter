@@ -1,0 +1,42 @@
+<resources>
+
+    <string name="open_weather_maps_app_id">48d1dcba88a57a299781f7259497b99c</string>
+
+    <string name="app_name">Wind</string>
+
+    <string name="weather_sunny">&#xf00d;</string>
+    <string name="weather_clear_night">&#xf02e;</string>
+    <string name="weather_foggy">&#xf014;</string>
+    <string name="weather_cloudy">&#xf013;</string>
+    <string name="weather_rainy">&#xf019;</string>
+    <string name="weather_snowy">&#xf01b;</string>
+    <string name="weather_thunder">&#xf01e;</string>
+    <string name="weather_drizzle">&#xf01c;</string>
+
+    <string name="north"></string>
+    <string name="north_east"></string>
+    <string name="east"></string>
+    <string name="south_east"></string>
+    <string name="south"></string>
+    <string name="south_west"></string>
+    <string name="west"></string>
+    <string name="north_west"></string>
+
+    <string name="b0"></string>
+    <string name="b1"></string>
+    <string name="b2"></string>
+    <string name="b3"></string>
+    <string name="b4"></string>
+    <string name="b5"></string>
+    <string name="b6"></string>
+    <string name="b7"></string>
+    <string name="b8"></string>
+    <string name="b9"></string>
+    <string name="b10"></string>
+    <string name="b11"></string>
+    <string name="b12"></string>
+
+    <string name="place_not_found">Sorry, no weather data found.</string>
+    <string name="forecast_title">5 Days Forecast</string>
+
+</resources>
